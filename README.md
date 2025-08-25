@@ -6,7 +6,8 @@ This project predicts whether existing health insurance customers are likely to 
 - Focus: High recall, so the model minimizes the risk of missing potential customers.
 
 ## Dataset
-## Data
+This project uses a public dataset from Kaggle: [Health Insurance Cross Sell Prediction Dataset](https://www.kaggle.com/datasets/anmolkumar/health-insurance-cross-sell-prediction)
+
 | Variable                   | Type                       | Description                                                                                       |
 | -------------------------- | -------------------------- | ------------------------------------------------------------------------------------------------- |
 | **id**                     | Identifier                 | Unique ID assigned to each customer.                                                              |
